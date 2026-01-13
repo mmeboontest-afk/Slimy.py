@@ -26,5 +26,5 @@ async def on_ready():
     print(f'Logged in as {client.user}')
 
 keep_alive() # เริ่มรันเซิร์ฟเวอร์หลอก
-token = os.getenv('BOT_TOKEN')
+token = os.getenv('MTQ1NzM2MDAyNzk2MTY1NTQyMA.G3abJT.31wJZJyc2HkKyOlSg_j2zg-MIhYfIjllpNzacs')
 client.run(token)
